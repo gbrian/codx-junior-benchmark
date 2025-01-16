@@ -1,0 +1,3 @@
+# [[{"id": "65795eb3-3634-4db2-852e-8ad4db0beb19", "parent_id": "", "status": "", "tags": [], "file_list": [], "profiles": ["software_developer"], "name": "App scripts", "created_at": "2025-01-16 16:31:22.470725+00:00", "updated_at": "2025-01-16T17:45:48.879434", "mode": "chat", "board": "kanban", "column": "server", "chat_index": 0, "live_url": "", "branch": "", "file_path": "/home/codxuser/projects/codx-junior-benchmark/java-springboot-angular-material/.codx/tasks/kanban/Project init/App scripts.65795eb3-3634-4db2-852e-8ad4db0beb19.md"}]]
+## [[{"role": "user", "task_item": "", "hide": false, "improvement": false, "created_at": "2025-01-16 12:04:14.300229", "updated_at": "2025-01-16 12:04:14.300258", "images": [], "files": []}]]
+Update run_app.sh to run java server
