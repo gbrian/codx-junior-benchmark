@@ -12,12 +12,12 @@
   "knowledge_context_cutoff_relevance_score": 0.9,
   "knowledge_external_folders": "",
   "knowledge_query_subprojects": true,
-  "knowledge_file_ignore": ".codx,.webp,target",
+  "knowledge_file_ignore": ".codx,.webp,target,.ico",
   "temperature": 0.7,
   "watching": false,
   "use_knowledge": true,
   "knowledge_hnsw_M": 1024,
-  "project_icon": "./java-springboot-angular-material/assets/logo.webp",
+  "project_icon": "https://raw.githubusercontent.com/gbrian/codx-junior-benchmark/refs/heads/main/java-springboot-angular-material/assets/logo.webp",
   "log_ignore": "",
   "urls": []
 }

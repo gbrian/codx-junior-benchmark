@@ -26,6 +26,7 @@ Write 2-3 sentences summary of your impressions of working with codx-junior with
 
 ## Errors Encountered
 For more notable issues and errors, specify more closely what they impacted and how they were presented.
+[start here]
 
 ### Example reporting:
 
@@ -35,16 +36,24 @@ For more notable issues and errors, specify more closely what they impacted and 
 ## Suggested Improvements
 For any ideas on how to improve any aspect of funcionality and usability of the platform
 
-## Beta Success Criteria \[Minimum Thresholds\]
-Mark with * box that's applicable to experience for following segments.   
 
-- Code Generation Efficiency:  
+## Beta Success Criteria \[Minimum Thresholds\]
+Mark with * box that's applicable to experience for the following segments:   
+
+### Model Integration & Performance \[Beta KPIs\]
+
+[] Code generation response time: ≤ 10 seconds for basic CRUD operations  
+[] Code accuracy rate: ≥ 80% (measured by compilation success \+ test passing)  
+[] Architectural pattern adherence: ≥ 75% compliance with defined patterns  
+[] Output consistency: ≥ 80% similarity in repeated generations
+
+### Code Generation Efficiency:  
 
 [] Success rate: ≥ 75%  
 [] Post-generation modification: ≤ 20%  
 [] Development time reduction: ≥ 30%
 
-- Developer Experience:  
+### Developer Experience:  
     
 [] Likelihood of future adoption: ≥ 60%  
 [] Developer satisfaction: ≥ 3.5/5  
